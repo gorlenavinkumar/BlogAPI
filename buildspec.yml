@@ -9,5 +9,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/.jar
+    - target/student-service.jar
   discard-paths: yes
